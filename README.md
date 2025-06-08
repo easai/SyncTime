@@ -1,6 +1,6 @@
 # SyncTime
 
-SyncTime zis a compact yet functional timekeeping system built around the ESP32. It achieves real-time synchronization using NTP servers and displays the current time and date on an SH1106 OLED screen.
+SyncTime is a compact yet functional timekeeping system built around the ESP32. It achieves real-time synchronization using NTP servers and displays the current time and date on an SH1106 OLED screen.
 
 ## Project Overview
 * Wi-Fi Connectivity: The ESP32 connects to a Wi-Fi network using credentials stored in config.h, ensuring modular security.
