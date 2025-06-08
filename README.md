@@ -42,4 +42,5 @@ If your region observes daylight saving time, set `daylightOffset_sec`. Otherwis
 
 ## Schematic Diagram
 
-![SyncTime Schematic](https://github.com/easai/SyncTime/blob/main/schematic.png)
+<img src="https://github.com/easai/SyncTime/blob/main/schematic.png" width="300">
+
