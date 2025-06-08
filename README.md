@@ -39,3 +39,7 @@ Find your local UTC offset and modify `gmtOffset_sec` accordingly.
 
 ### Adjust for daylight saving 
 If your region observes daylight saving time, set `daylightOffset_sec`. Otherwise, set it to 0.
+
+## Schematic Diagram
+
+![SyncTime Schematic](https://github.com/easai/SyncTime/blob/main/schematic.png)
